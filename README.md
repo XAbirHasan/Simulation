@@ -13,6 +13,7 @@ file contains followings:
     <li>Queueing Model</li>
     <li>Reproduction simulation</li>
     <li>Target defender simulation</li>
+    <li>KS test</li>
  </ul>
 
 
