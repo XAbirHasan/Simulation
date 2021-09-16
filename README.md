@@ -6,14 +6,15 @@
  ## Details
 file contains followings:
  <ul>
-    <li>chemical reaction</li>
-    <li>Inventory management</li>
-    <li>Monte carlo integral</li>
-    <li>Monte carlo simulation</li>
-    <li>Queueing Model</li>
-    <li>Reproduction simulation</li>
-    <li>Target defender simulation</li>
-    <li>KS test</li>
+    <li>[chemical reaction](https://github.com/XAbirHasan/Simulation/blob/master/Source%20code/chemical_reaction.ipynb)</li>
+    <li>[Inventory management](https://github.com/XAbirHasan/Simulation/blob/master/Source%20code/Inventory_problem.ipynb)</li>
+    <li>[Inventory problem2](https://github.com/XAbirHasan/Simulation/blob/master/Source%20code/Inventory_problem2.ipynb)</li>
+    <li>[Monte carlo integral](https://github.com/XAbirHasan/Simulation/blob/master/Source%20code/Monte_carlo_integral.ipynb)</li>
+    <li>[Monte carlo simulation](https://github.com/XAbirHasan/Simulation/blob/master/Source%20code/Monte_carlo.ipynb)</li>
+    <li>[Queueing Model](https://github.com/XAbirHasan/Simulation/blob/master/Source%20code/Queueing_model.ipynb)</li>
+    <li>[Reproduction simulation](https://github.com/XAbirHasan/Simulation/blob/master/Source%20code/Reproduction.ipynb)</li>
+    <li>[Target defender simulation](https://github.com/XAbirHasan/Simulation/blob/master/Source%20code/Target_defender.ipynb)</li>
+    <li>[KS test](https://github.com/XAbirHasan/Simulation/blob/master/Source%20code/KS_test.ipynb)</li>
  </ul>
 
 
