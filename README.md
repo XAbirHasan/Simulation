@@ -6,7 +6,7 @@
  ## Details
 file contains followings:
 
-[@chemical reaction](https://github.com/XAbirHasan/Simulation/blob/master/Source%20code/chemical_reaction.ipynb)
+* **+**[chemical reaction](https://github.com/XAbirHasan/Simulation/blob/master/Source%20code/chemical_reaction.ipynb)
 [Inventory management](https://github.com/XAbirHasan/Simulation/blob/master/Source%20code/Inventory_problem.ipynb)
 [Inventory problem2](https://github.com/XAbirHasan/Simulation/blob/master/Source%20code/Inventory_problem2.ipynb)
 [Monte carlo integral](https://github.com/XAbirHasan/Simulation/blob/master/Source%20code/Monte_carlo_integral.ipynb)
