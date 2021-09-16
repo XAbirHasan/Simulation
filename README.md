@@ -6,7 +6,7 @@
  ## Details
 file contains followings:
  <ul>
-    <li>[chemical reaction](https://github.com/XAbirHasan/Simulation/blob/master/Source%20code/chemical_reaction.ipynb)</li>
+    <li>[@chemical reaction](https://github.com/XAbirHasan/Simulation/blob/master/Source%20code/chemical_reaction.ipynb)</li>
     <li>[Inventory management](https://github.com/XAbirHasan/Simulation/blob/master/Source%20code/Inventory_problem.ipynb)</li>
     <li>[Inventory problem2](https://github.com/XAbirHasan/Simulation/blob/master/Source%20code/Inventory_problem2.ipynb)</li>
     <li>[Monte carlo integral](https://github.com/XAbirHasan/Simulation/blob/master/Source%20code/Monte_carlo_integral.ipynb)</li>
