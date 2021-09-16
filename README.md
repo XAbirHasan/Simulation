@@ -2,6 +2,7 @@
  Some basic simulation using python.
  This can be use to simulate some real life problem. Feel fee to use and edit. (Thanks)
 
+*Use google colab for better visual experience.
  ## Details
 file contains followings:
  <ul>
